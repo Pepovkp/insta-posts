@@ -6,3 +6,5 @@ icon.addEventListener('click', () => {
 		icon.classList.remove('open');
 	}
 });
+
+
